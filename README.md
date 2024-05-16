@@ -53,3 +53,4 @@ Give discount coupons on Mondays which can be claimed on weekends.
 o	In Lower Manhattan the Overall Sales are very less.
 Possible Solution: Organize events and extra activity programs in the Café so that it creates awareness among the people of the locality and they reach on to you.
 
+![Coffeeshopsalesanalysis](https://github.com/poojadurge26/Coffee_shop_sales_analysis_excel_dashboard/assets/42688025/8ec70f41-fcff-4190-b30f-3a2c7f983f2e)
